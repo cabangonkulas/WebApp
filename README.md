@@ -24,3 +24,5 @@ On the other hand, the same lists can be used by the puzzle setter to stump thei
 common letters (e.g. rhythm or zephyr) or one that contains rare letters (e.g. jazz).
 
 When you play this game, the best strategy is to guest vowel first.
+
+### [Web Game App] ( https://ng-hangman.github.io/WebApp/)
